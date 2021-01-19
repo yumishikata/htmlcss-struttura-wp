@@ -37,12 +37,12 @@ header {
 }
 
 .float_main {
-  height: 33vh;
+  height: 32vh;
   margin-top: 2vh;
   margin-bottom: 1vh;
 }
 .colonna {
-  height: 90%;
+  height: 100%;
   float: left;
   background-color: lightblue;
 }
